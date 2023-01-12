@@ -1,0 +1,10 @@
+lsi : false
+safe: true
+source: libbi.mylah.github.io
+incremental: false
+hightlighter: rouge
+gist:
+  noscript: false
+kdramdown:
+  math_engine: mathjaxsk
+  syntax_highlighter: rogue
