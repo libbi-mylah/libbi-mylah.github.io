@@ -1,9 +1,13 @@
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
+$backgroundColor: #fff;
+$bodyColor: #000;
 $bodyFont: Trebuchet MS, sans-serif;
 
 body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+}
+
+.masthead img {
+  width: 250px;
 }
